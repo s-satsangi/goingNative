@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "nothing fancy, just getting my feet wet with React Native",
+    "githubUrl": "https://github.com/s-satsangi/goingNative"
   }
 }
